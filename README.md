@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Marvin Valencia
+- 👀 I’m interested in Django web apps and software development in general
+- 📫 You can reach me by mail (maravape@gmail.com)
